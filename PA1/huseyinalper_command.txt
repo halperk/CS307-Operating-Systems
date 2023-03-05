@@ -1,0 +1,1 @@
+man free | grep -A 14 -e --human > output.txt
